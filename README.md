@@ -1,5 +1,4 @@
 
-The project aims to conduct a comparative analysis of machine learning algorithms using the CTG dataset to develop a fetal health classifier model. The primary objective is to evaluate the effectiveness of feature selection with Recursive Feature Elimination with Cross-Validation (RFECV) and hyperparameter tuning with GridSearchCV.
 
 Process Pipeline
 
